@@ -6,3 +6,8 @@
 
 - Web
 - App
+
+## Tech Stack
+
+- Python
+- C++
